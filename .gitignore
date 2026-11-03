@@ -1,0 +1,12 @@
+server/.venv/
+server/.env
+server/**/__pycache__/
+**/*.pyc
+
+app/.gradle/
+app/build/
+app/local.properties
+app/google-services.json
+app/.idea/
+*.iml
+.DS_Store

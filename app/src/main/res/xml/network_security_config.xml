@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- The sample server is plain HTTP on the local network. Use HTTPS for a real deployment. -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
